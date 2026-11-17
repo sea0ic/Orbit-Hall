@@ -1,0 +1,1 @@
+export { STARS } from './starCatalogHD';
